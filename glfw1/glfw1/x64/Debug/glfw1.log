@@ -1,2 +1,5 @@
-﻿  main.cpp
+﻿  glad.c
+  main.cpp
+  shader.hpp
+  正在生成代码...
   glfw1.vcxproj -> D:\vs22 repos\glfw1\x64\Debug\glfw1.exe

@@ -1,0 +1,7 @@
+#version 330 core
+in vec4 ourcolor;
+out vec4 fragcolor;
+
+void main(){
+	fragcolor = ourcolor;	
+}
